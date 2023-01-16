@@ -1,0 +1,14 @@
+## debuging
+debug()
+undebug()
+debugonce()
+traceback()
+
+
+
+## how to handle errors
+options(error = browser)
+options(error = NULL)
+
+## in shiny
+options(shiny.error = brower)
